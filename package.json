@@ -1,7 +1,7 @@
 {
-  "name": "@circleci/circleci-config-sdk",
-  "version": "0.0.0-development",
-  "description": "An SDK for building CircleCI Configuration files with JavaScript.",
+  "name": "@tapesec/circleci-config-sdk",
+  "version": "1.0.0",
+  "description": "This is a temp fork of the officilar CircleCI SDK for building CircleCI Configuration files with JavaScript.",
   "main": "dist/index.js",
   "types": "dist/src/index.d.ts",
   "scripts": {
